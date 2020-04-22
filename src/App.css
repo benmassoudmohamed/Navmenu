@@ -1,0 +1,12 @@
+.list{
+    display: block;
+}
+.NonList{
+    display: none;
+}
+li:active{
+    color:blue;
+}
+.nav{
+    color:black;
+}
